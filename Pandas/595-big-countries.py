@@ -1,0 +1,25 @@
+## LeetCode #595 , Problem: Big Countries
+## Difficulty: Easy
+
+# Table:
+# World: name, continent, area, population, gdp
+
+# Task:
+# Find the name, population, and area of countries that are considered big.
+# A country is big if its area is at least 3,000,000 km²
+# or its population is at least 25,000,000.
+
+# Approach:
+# 1. Filter the World DataFrame where area >= 3,000,000 OR population >= 25,000,000.
+# 2. Select only the required columns: name, population, and area.
+# 3. Return the filtered DataFrame.
+
+import pandas as pd
+
+def big_countries(world: pd.DataFrame) -> pd.DataFrame:
+    df = world[
+        (world['area'] >= 3000000) |
+        (world['population'] >= 25000000)
+    ]
+
+    return df[['name', 'population', 'area']]
