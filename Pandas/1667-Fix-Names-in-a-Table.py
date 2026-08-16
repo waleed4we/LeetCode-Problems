@@ -12,8 +12,8 @@
 import pandas as pd
 
 def fix_names(users: pd.DataFrame) -> pd.DataFrame:
-    users['name'] = users['name'].str.title()
-    return users[['user_id', 'name']].sort_values('user_id')
+    users['name'] = users['name'].str.capitalize()
+    return users[['user_id', 'name']].sort_values('user_id').reset_index(drop=True)
 
 # Approach :
 # 1. Use the .str.title() method to format each name
