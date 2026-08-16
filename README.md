@@ -1,2 +1,4 @@
 # LeetCode-Problems
-My solutions and practice for LeetCode problems
+
+My Collection Of Leetcode Problems And Their Solutions 
+Data Analyst Oriented
