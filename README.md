@@ -24,6 +24,11 @@
   </tr>
 
   <tr>
+    <td><b>🐍 Python</b></td>
+    <td>LeetCode Python problems and solutions focused on programming and problem-solving skills</td>
+  </tr>
+
+  <tr>
     <td><b>🗄️ SQL-50</b></td>
     <td>LeetCode SQL-50 problems and their solutions for practicing SQL skills</td>
   </tr>
@@ -35,6 +40,7 @@
 
 <ul>
   <li>Strengthen SQL problem-solving skills</li>
+  <li>Improve Python programming and problem-solving skills</li>
   <li>Improve Pandas and data manipulation skills</li>
   <li>Practice real-world Data Analyst concepts</li>
   <li>Build consistency through regular LeetCode practice</li>
@@ -56,7 +62,7 @@
 ## 📈 Progress
 
 <p>
-  Continuously solving and adding new problems to strengthen my Data Analyst skill set
+  Continuously solving and adding new problems in Python, Pandas, and SQL to strengthen my Data Analyst skill set
 </p>
 
 ---
