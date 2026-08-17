@@ -1,6 +1,6 @@
 <div align="center">
 
-# LeetCode Problems
+# 🧩 LeetCode Problems
 
 <p>
   <b>My collection of LeetCode problems and solutions focused on building strong Data Analyst skills</b>
@@ -14,16 +14,18 @@
 
 <table>
   <tr>
-    <th>Folder</th>
-    <th>Description</th>
+    <th>📁 Folder</th>
+    <th>📝 Description</th>
   </tr>
+
   <tr>
     <td><b>🐼 Pandas</b></td>
-    <td>Pandas problems focused on data manipulation and analysis</td>
+    <td>Pandas problems and solutions focused on data manipulation and analysis</td>
   </tr>
+
   <tr>
     <td><b>🗄️ SQL-50</b></td>
-    <td>SQL problems covering queries, joins, aggregations, subqueries and more</td>
+    <td>LeetCode SQL-50 problems and their solutions for practicing SQL skills</td>
   </tr>
 </table>
 
@@ -34,7 +36,7 @@
 <ul>
   <li>Strengthen SQL problem-solving skills</li>
   <li>Improve Pandas and data manipulation skills</li>
-  <li>Practice real-world data analysis concepts</li>
+  <li>Practice real-world Data Analyst concepts</li>
   <li>Build consistency through regular LeetCode practice</li>
 </ul>
 
@@ -45,6 +47,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
@@ -53,13 +56,13 @@
 ## 📈 Progress
 
 <p>
-  I continuously add new problems and solutions as I learn and improve my Data Analyst skill set
+  Continuously solving and adding new problems to strengthen my Data Analyst skill set
 </p>
 
 ---
 
 <div align="center">
 
-⭐ <b>Keep Learning • Keep Solving • Keep Improving</b> ⭐
+### ⭐ Keep Learning • Keep Solving • Keep Improving ⭐
 
 </div>
