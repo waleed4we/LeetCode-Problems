@@ -27,4 +27,4 @@ def calculate_special_bonus(employees: pd.DataFrame) -> pd.DataFrame:
 # 1. Create a bonus column and initialize it with 0 for all employees
 # 2. Use .loc[] to filter employees whose employee_id is odd and whose name does not start with 'M'
 # 3. For employees satisfying both conditions, set their bonus equal to their salary
-# 4. Return only employee_id and bonus columns
+# 4. Return only employee_id and bonus column
