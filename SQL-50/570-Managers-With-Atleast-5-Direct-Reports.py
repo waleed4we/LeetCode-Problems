@@ -1,17 +1,17 @@
--- LeetCode #570 , Problem: Managers with at Least 5 Direct Reports
--- Difficulty: Medium
+# LeetCode #570 , Problem: Managers with at Least 5 Direct Reports
+# Difficulty: Medium
 
--- Table:
--- Employee: id, name, department, managerId
+# Table:
+# Employee: id, name, department, managerId
 
--- Task:
--- Find the managers who have at least five direct reports.
+# Task:
+# Find the managers who have at least five direct reports.
 
--- Approach:
--- 1. Self join the Employee table to connect each manager with their direct reports.
--- 2. Group the records by the manager's id and name.
--- 3. Count the number of direct reports for each manager.
--- 4. Return managers whose direct report count is at least 5.
+# Approach:
+# 1. Self join the Employee table to connect each manager with their direct reports.
+# 2. Group the records by the manager's id and name.
+# 3. Count the number of direct reports for each manager.
+# 4. Return managers whose direct report count is at least 5.
 
 select e1.name
 from employee as e1
