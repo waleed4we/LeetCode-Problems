@@ -9,15 +9,17 @@
 -- tiv_2015 value as at least one other policyholder and have a unique lat and lon location
 -- Round the result to 2 decimal places
 
-select round(sum(tiv_2016), 2) as tiv_2016
+select sum(tiv_2016) as tiv_2026
 from insurance
 where tiv_2015 in (
-    select tiv_2015 from insurance
+    select tiv_2015
+    from insurance
     group by tiv_2015
     having count(*) > 1
 )
 and (lat, lon) in (
-    select lat, lon from insurance
+    select lat, lon
+    from insurance
     group by lat, lon
     having count(*) = 1
 );
