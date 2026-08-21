@@ -32,6 +32,3 @@ class Solution(object):
 # 4. Convert the incremented integer back into a string
 # 5. Convert each character back into an integer and store it in a list
 # 6. Return the resulting list of digits
-
-# Time Complexity: O(n)
-# Space Complexity: O(n)
