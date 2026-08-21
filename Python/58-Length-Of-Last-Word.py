@@ -17,7 +17,6 @@ class Solution(object):
                 count_spaces += 1
 
         my_str = ""
-
         for i in range(len(my_s) - 1, -1, -1):
             if my_s[i] == " ":
                 break
@@ -31,5 +30,3 @@ class Solution(object):
 # 3. Keep adding characters until a space is found
 # 4. Return the length of the collected characters
 
-# Time Complexity: O(n)
-# Space Complexity: O(n)
