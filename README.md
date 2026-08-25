@@ -30,7 +30,7 @@
 
   <tr>
     <td><b>🗄️ SQL-50</b></td>
-    <td>LeetCode SQL-50 problems and their solutions for practicing SQL skills</td>
+    <td>LeetCode SQL-50 problems and their solutions for practicing SQL</td>
   </tr>
 </table>
 
