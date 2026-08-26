@@ -25,7 +25,7 @@
 
   <tr>
     <td><b>🐍 Python</b></td>
-    <td>LeetCode Python problems and solutions focused on programming and problem-solving skills</td>
+    <td>LeetCode Python problems and solutions focused on programming and problem solving skills</td>
   </tr>
 
   <tr>
