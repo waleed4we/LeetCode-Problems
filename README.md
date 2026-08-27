@@ -3,7 +3,7 @@
 # 🧩 LeetCode Problems
 
 <p>
-  <b>My collection of LeetCode problems and solutions focused on building strong Data Analyst skills</b>
+  <b>Collection Of My LeetCode Problems And Solutions Focused On Building Strong Data Analyst Skills</b>
 </p>
 
 </div>
