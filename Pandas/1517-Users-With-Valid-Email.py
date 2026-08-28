@@ -1,8 +1,7 @@
 # LeetCode #1517 , Users With Valid Email
 # Difficulty: Easy
 
-# Table :
-# Users: user_id, name, mail
+# Table : Users: user_id, name, mail
 
 # Task: Find users who have valid emails
 # A valid email must:
