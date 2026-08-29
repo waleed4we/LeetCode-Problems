@@ -39,8 +39,8 @@
 ## 🎯 Goals
 
 <ul>
-  <li>Strengthen SQL problem-solving skills</li>
-  <li>Improve Python programming and problem-solving skills</li>
+  <li>Strengthen SQL Problem-Solving Skills</li>
+  <li>Improve Python Programming And Problem-Solving Skills</li>
   <li>Improve Pandas and data manipulation skills</li>
   <li>Practice real-world Data Analyst concepts</li>
   <li>Build consistency through regular LeetCode practice</li>
