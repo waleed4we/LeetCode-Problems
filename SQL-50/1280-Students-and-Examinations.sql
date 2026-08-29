@@ -1,7 +1,7 @@
 -- LeetCode #1280 , Problem: Students and Examinations
 -- Difficulty: Easy
 
--- Tables:
+-- There Are 3 Tables :
 -- Students: student_id, student_name
 -- Subjects: subject_name
 -- Examinations: student_id, subject_name
