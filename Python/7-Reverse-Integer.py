@@ -1,8 +1,7 @@
 # LeetCode #7, Problem: Reverse Integer
 # Difficulty: Medium
 
-# Task:
-# Reverse the digits of a signed 32-bit integer
+# Task : Reverse the digits of a signed 32-bit integer
 # Return 0 if the reversed number goes outside the 32-bit integer range
 # Handle both positive and negative integers
 
