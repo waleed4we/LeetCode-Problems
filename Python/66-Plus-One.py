@@ -1,8 +1,7 @@
 # LeetCode #66, Problem: Plus One
 # Difficulty: Easy
 
-# Task:
-# Increment the large integer represented by the digits array by one
+# Task : ncrement the large integer represented by the digits array by one
 # Return the resulting integer as an array of digits
 
 class Solution(object):
