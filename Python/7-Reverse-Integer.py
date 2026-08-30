@@ -1,4 +1,4 @@
-# LeetCode #7, Problem: Reverse Integer
+# LeetCode Problem #7, Problem: Reverse Integer
 # Difficulty : Medium
 
 # Task : Reverse the digits of a signed 32-bit integer
