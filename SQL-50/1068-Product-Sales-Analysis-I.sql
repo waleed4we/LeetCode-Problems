@@ -1,4 +1,4 @@
--- LeetCode #1068 , Problem: Product Sales Analysis I
+-- LeetCode Problem #1068 , Problem: Product Sales Analysis I
 -- Difficulty: Easy
 
 -- Tables:
