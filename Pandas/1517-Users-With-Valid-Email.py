@@ -1,4 +1,4 @@
-# LeetCode #1517 , Users With Valid Email
+# LeetCode Problem #1517 , Users With Valid Email
 # Difficulty: Easy
 
 # Table : Users: user_id, name, mail
