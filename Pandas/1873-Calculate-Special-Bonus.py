@@ -1,4 +1,4 @@
-# LeetCode #1873 , Calculate Special Bonus
+# LeetCode Problem #1873 , Calculate Special Bonus
 # Difficulty: Easy
 
 # Table :
