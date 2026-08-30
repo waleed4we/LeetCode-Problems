@@ -1,4 +1,4 @@
-# LeetCode #28, Problem: Find the Index of the First Occurrence in a String
+# LeetCode  Problem #28: Find the Index of the First Occurrence in a String
 # Difficulty: Easy
 
 # Task:
