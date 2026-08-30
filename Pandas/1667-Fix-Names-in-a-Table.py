@@ -1,4 +1,4 @@
-# LeetCode #1667, Problem: Fix Names in a Table
+# LeetCode Problem #1667 : Fix Names in a Table
 # Difficulty: Easy
 
 # Table:
