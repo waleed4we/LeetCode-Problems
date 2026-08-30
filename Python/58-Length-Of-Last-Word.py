@@ -1,4 +1,4 @@
-# LeetCode #58, Problem: Length of Last Word
+# LeetCode Problem #58, Problem: Length of Last Word
 # Difficulty: Easy
 
 # Task:
