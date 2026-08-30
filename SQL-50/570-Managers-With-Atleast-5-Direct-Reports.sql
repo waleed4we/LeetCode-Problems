@@ -1,4 +1,4 @@
--- LeetCode #570 , Problem: Managers with at Least 5 Direct Reports
+-- LeetCode Problem #570 , Problem: Managers with at Least 5 Direct Reports
 -- Difficulty: Medium
 
 -- Table:
