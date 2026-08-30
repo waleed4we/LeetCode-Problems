@@ -1,4 +1,4 @@
-# LeetCode #1527 , Patients With A Condition
+# LeetCode Problem #1527 , Patients With A Condition
 # Difficulty: Easy
 
 # Table :
