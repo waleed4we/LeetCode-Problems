@@ -1,5 +1,5 @@
 # LeetCode #1757, Problem: Recyclable and Low Fat Products
-# Difficulty: Easy
+# Difficulty : Easy
 
 # Table:
 # Products: product_id, low_fats, recyclable
