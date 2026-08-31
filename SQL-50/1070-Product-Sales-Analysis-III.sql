@@ -1,4 +1,4 @@
--- LeetCode #1070, Problem: Product Sales Analysis III
+-- LeetCode Problem #1070 , Product Sales Analysis III
 -- Difficulty: Medium
 
 -- Table:
