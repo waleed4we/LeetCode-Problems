@@ -1,4 +1,4 @@
--- LeetCode #1075 , Problem: Project Employees I
+-- LeetCode Problem #1075 , Project Employees I
 -- Difficulty: Easy
 
 -- Table:
