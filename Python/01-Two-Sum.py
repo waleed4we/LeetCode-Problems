@@ -13,7 +13,7 @@ class Solution(object):
                 if nums[i] + nums[j] == target:
                     return [i, j]
 
-# Approach:
+# Used Approach:
 # 1. Use two nested loops to check every possible pair of elements.
 # 2. The first loop selects the first element using index i.
 # 3. The second loop starts from i + 1 so that we do not use the same element twice and do not check the same pair again.
