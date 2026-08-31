@@ -24,7 +24,7 @@ class Solution(object):
 
         return len(my_str)
 
-# Approach:
+# Used Approach:
 # 1. Remove leading and trailing spaces using strip()
 # 2. Traverse the string from the end
 # 3. Keep adding characters until a space is found
