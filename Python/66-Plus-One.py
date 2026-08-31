@@ -1,4 +1,4 @@
-# LeetCode #66, Problem: Plus One
+# LeetCode Problem #66,  Plus One
 # Difficulty: Easy
 
 # Task : Increment the large integer represented by the digits array by one
