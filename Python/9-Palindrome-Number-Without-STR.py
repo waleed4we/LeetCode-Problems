@@ -19,7 +19,7 @@ class Solution(object):
 
         return original == reverse
 
-# Approach:
+# Used Approach:
 # 1. First, check if x is negative. A negative number cannot be a palindrome so return False immediately.
 # 2. Store the original value of x because x will be changed while reversing its digits.
 # 3. Extract the last digit using x % 10 and build the reversed number using reverse = reverse * 10 + digit.
