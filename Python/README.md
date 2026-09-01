@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 LeetCode Python
+# 🐍 LeetCode Python Problems
 
 <p>
   <b>My solutions to LeetCode Python problems focused on strengthening problem-solving and programming skills</b>
