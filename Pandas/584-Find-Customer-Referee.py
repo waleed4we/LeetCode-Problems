@@ -1,4 +1,4 @@
-# LeetCode #584, Problem: Find Customer Referee
+# LeetCode Problem #584, Find Customer Referee
 # Difficulty: Easy
 
 # Task:
