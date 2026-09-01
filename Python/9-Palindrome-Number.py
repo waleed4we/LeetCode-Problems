@@ -1,4 +1,4 @@
-# LeetCode #9 , Problem: Palindrome Number
+# LeetCode Problem #9 : Palindrome Number
 # Difficulty: Easy
 
 # Task:
