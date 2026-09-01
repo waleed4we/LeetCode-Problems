@@ -1,4 +1,4 @@
--- LeetCode #185 Problem: Department Top Three Salaries
+-- LeetCode Problem #185 , Department Top Three Salaries
 -- Difficulty: Hard
 
 -- Tables:
