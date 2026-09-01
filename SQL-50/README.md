@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗄️ LeetCode SQL-50
+# 🗄️ LeetCode SQL-50 Problems
 
 <p>
   <b>My solutions to LeetCode SQL-50 problems focused on strengthening SQL skills for Data Analysis</b>
