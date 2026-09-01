@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐼 LeetCode Pandas
+# 🐼 LeetCode Pandas Problems
 
 <p>
   <b>My solutions to LeetCode Pandas problems focused on building strong Data Analyst skills</b>
