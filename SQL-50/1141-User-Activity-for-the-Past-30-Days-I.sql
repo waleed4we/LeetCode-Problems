@@ -1,4 +1,4 @@
--- LeetCode #1141, Problem: User Activity for the Past 30 Days I
+-- LeetCode Problem #1141, User Activity for the Past 30 Days I
 -- Difficulty: Easy
 
 -- Table:
