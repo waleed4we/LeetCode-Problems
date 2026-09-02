@@ -69,6 +69,6 @@
 
 <div align="center">
 
-### ⭐ Keep Learning • Keep Solving • Keep Improving ⭐
+### ⭐ Thing Is Keep Learning • Keep Solving • Keep Improving ⭐
 
 </div>
