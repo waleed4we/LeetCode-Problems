@@ -1,8 +1,7 @@
 # LeetCode Problem #584, Find Customer Referee
 # Difficulty: Easy
 
-# Task:
-# Find customers who were not referred by the customer with id 2
+# Task : Find customers who were not referred by the customer with id 2
 # Also include customers who were not referred by anyone
 
 import pandas as pd
