@@ -10,7 +10,7 @@
 
 ---
 
-## 📂 My Repository Structure
+## 📂 Repository Structure
 
 <table>
   <tr>
