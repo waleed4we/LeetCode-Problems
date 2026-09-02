@@ -4,8 +4,7 @@
 # Table:
 # Products: product_id, low_fats, recyclable
 
-# Task:
-# Find the product IDs of products that are both low fat and recyclable.
+# Task : Find the product IDs of products that are both low fat and recyclable.
 
 # Approach:
 # 1. Filter products where low_fats is 'Y' and recyclable is 'Y'.
