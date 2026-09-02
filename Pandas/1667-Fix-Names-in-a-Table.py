@@ -4,8 +4,7 @@
 # Table:
 # Users: user_id, name
 
-# Task:
-# Fix the names so that only the first character is uppercase
+# Task : Fix the names so that only the first character is uppercase
 # and the remaining characters are lowercase
 # Return the result ordered by user_id
 
