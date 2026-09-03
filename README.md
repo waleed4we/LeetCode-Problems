@@ -20,7 +20,7 @@
 
   <tr>
     <td><b>🐼 Pandas</b></td>
-    <td>Pandas problems and solutions focused on data manipulation and analysis</td>
+    <td>Pandas Problems And Solutions Focused On Data Manipulation And Analysis</td>
   </tr>
 
   <tr>
