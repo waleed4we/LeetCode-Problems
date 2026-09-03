@@ -4,8 +4,7 @@
 -- Table:
 -- Sales: sale_id, product_id, year, quantity, price
 
--- Task:
--- Find all sales that occurred in the first year each product was sold.
+-- Task : Find all sales that occurred in the first year each product was sold.
 -- Return product_id, first_year, quantity, and price.
 
 -- Approach:
