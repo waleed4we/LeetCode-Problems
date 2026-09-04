@@ -10,7 +10,7 @@
 
 ---
 
-## 📂 This Repo Structure
+## 📂 Repo Structure
 
 <table>
   <tr>
