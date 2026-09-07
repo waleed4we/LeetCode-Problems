@@ -12,7 +12,7 @@
 
 ## 📚 About
 
-This folder contains my solutions to <b>LeetCode Python</b> problems
+This Repo Contains My Solutions To <b>LeetCode Python</b> Problems
 
 The problems focus on building strong programming fundamentals, logical thinking, and efficient problem-solving skills
 
