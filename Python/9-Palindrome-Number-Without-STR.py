@@ -1,8 +1,7 @@
 # LeetCode #9 , Problem: Palindrome Number
 # Difficulty: Easy
 
-# Task:
-# Given an integer x, return True if x is a palindrome, and False otherwise.
+# Task : Given an integer x, return True if x is a palindrome, and False otherwise.
 
 class Solution(object):
     def isPalindrome(self, x):
