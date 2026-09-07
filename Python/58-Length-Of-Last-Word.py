@@ -1,8 +1,7 @@
 # LeetCode Problem #58, Problem: Length of Last Word
 # Difficulty: Easy
 
-# Task:
-# Return the length of the last word in the given string
+# Task : Return the length of the last word in the given string
 # Ignore any spaces at the beginning or end of the string
 
 class Solution(object):
