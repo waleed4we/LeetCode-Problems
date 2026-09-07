@@ -15,9 +15,7 @@ class Solution(object):
         return True
 
 # Approach:
-# 1. First, I converted the integer into a string so that I could easily compare
-#    characters from the beginning and the end.
-# 2. I iterated only through the first half of the string because each character
-#    in the first half can be compared with its corresponding character from the end.
+# 1. First, I converted the integer into a string so that I could easily compare characters from the beginning and the end.
+# 2. I iterated only through the first half of the string because each character in the first half can be compared with its corresponding character from the end.
 # 3. If any pair of characters is different, the number is not a palindrome.
 # 4. If all corresponding characters match, return True.
