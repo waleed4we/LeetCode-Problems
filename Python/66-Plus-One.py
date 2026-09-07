@@ -24,7 +24,7 @@ class Solution(object):
 
         return new_list
 
-# Approach:
+# Approach Used :
 # 1. Convert each digit into a string and combine them into one string
 # 2. Convert the resulting string into an integer
 # 3. Add one to the integer
