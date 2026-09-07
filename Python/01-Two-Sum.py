@@ -1,8 +1,7 @@
 # LeetCode #1 , Problem: Two Sum
 # Difficulty: Easy
 
-# Task:
-# Given an array of integers nums and an integer target, return the indices
+# Task : Given an array of integers nums and an integer target, return the indices
 # of the two numbers that add up to target.
 
 class Solution(object):
