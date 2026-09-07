@@ -24,7 +24,7 @@ class Solution(object):
 
         return reverse_num
 
-# Approach:
+# Approach Used :
 # 1. Store the sign of x and convert x to its absolute value
 # 2. Extract the last digit using the modulo operator
 # 3. Remove the last digit using integer division
