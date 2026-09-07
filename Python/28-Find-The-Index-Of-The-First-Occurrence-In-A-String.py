@@ -1,8 +1,7 @@
 # LeetCode  Problem #28: Find the Index of the First Occurrence in a String
 # Difficulty: Easy
 
-# Task:
-# Find the first occurrence of needle in haystack
+# Task : Find the first occurrence of needle in haystack
 # Return the starting index of the first occurrence
 # Return -1 if needle is not found
 
