@@ -11,7 +11,7 @@
 -- 2. Find the movie with the highest average rating in February 2020, If there is a tie, return the lexicographically smaller movie title.
 -- lexicographically means Alphabetically
 
--- Approach:
+-- Approach Used :
 -- 1. Count the number of movies rated by each user and sort by rating count descending, then user name ascending.
 -- 2. Calculate the average rating of each movie for February 2020 and sort by average rating descending, then movie title ascending.
 -- 3. Use LIMIT 1 in both CTEs to get the required user and movie.
