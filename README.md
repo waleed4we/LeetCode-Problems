@@ -62,7 +62,7 @@
 ## 📈 Progress
 
 <p>
-  Continuously solving and adding new problems in Python, Pandas, and SQL to strengthen my Data Analyst skill set
+  Continuously Solving And Adding New Problems In Python, Pandas, and SQL To Strengthen My Data Analyst Skill Set
 </p>
 
 ---
